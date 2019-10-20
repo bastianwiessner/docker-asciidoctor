@@ -6,4 +6,4 @@ using 2.0.10
 
 ## How to
 Just run:
-docker run -it <your directory>:/documents/ bastianwiessner/docker-asciidoctor
+docker run -it <workdir> bastianwiessner/docker-asciidoctor
