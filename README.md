@@ -1,5 +1,5 @@
 # docker-asciidoctor
-light-weight dockerfile with alpine using for asciidoctor
+Light-weight dockerfile with alpine linux containing asciidoctor and pandoc.
 
 ## asciidoctor Version
 using 2.0.10
